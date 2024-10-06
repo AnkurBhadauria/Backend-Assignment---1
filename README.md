@@ -2,8 +2,6 @@ Backend Assignment - 1
 
 # Backend Assignment - 1
 
-**Note** - For assignment submission please submit the github link , portfolio value , portfolio gain to the same email that has sent the assignment 
-
 **Objective** - Using the below information calculate the user’s current portfolio value and portfolio XIRR. 
 
 **How to process transactions - 
